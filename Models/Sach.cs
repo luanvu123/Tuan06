@@ -7,6 +7,7 @@ namespace Tuan06_PhamVuLuan.Models
 {
     public class Sach
     {
+        //Hoàn thành
         public int Id { get; set; }
         public string Title { get; set; }
         public string Content { get; set; }
